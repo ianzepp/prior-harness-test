@@ -5,7 +5,7 @@ integration tests.
 
 ## Projects
 
-- `rust-hello/`
+- `rs-hello/`
   Small Rust binary crate with a reusable greeting helper and unit tests.
 - `go-hello/`
   Small Go module with a greeting package, a CLI entrypoint, and unit tests.

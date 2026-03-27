@@ -1,4 +1,4 @@
-use rust_hello::greet;
+use rs_hello::greet;
 
 fn main() {
     println!("{}", greet("world"));
